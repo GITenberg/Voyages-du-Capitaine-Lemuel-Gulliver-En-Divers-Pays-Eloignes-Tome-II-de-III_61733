@@ -1,5 +1,5 @@
 _repo: Voyages-du-Capitaine-Lemuel-Gulliver-En-Divers-Pays-Eloignes-Tome-II-de-III_61733
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Anonymous
@@ -9,6 +9,9 @@ contributor:
     wikipedia:
     - http://www.gutenberg.org/ebooks/author/49
     - http://en.wikipedia.org/wiki/Anonymity
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Swift, Jonathan
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/326
     wikipedia: https://en.wikipedia.org/wiki/Jonathan_Swift
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61733#Voyages-du-Capitaine-Lemuel-Gulliver-En-Divers-Pays-Eloignes-Tome-II-de-III
 gutenberg_issued: '2020-04-01'
 gutenberg_type: Text
 identifiers:
